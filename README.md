@@ -1,2 +1,8 @@
 # 10SE-OOP-Design
-## TopTrumps
+## Top Trumps
+
+### PT1 - STEPTHROUGH PLAN
+|Step|x|
+|:--:|:--:|
+|WHY|x|
+
