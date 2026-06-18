@@ -1,6 +1,6 @@
 # 10SE-OOP-Design - Top Trumps
 ### PT1 - STEPTHROUGH PLAN
-
+Placeholder
 ---
 ### PT2 - Six Attributes
 Six attributes for the Top Trumps card game:
