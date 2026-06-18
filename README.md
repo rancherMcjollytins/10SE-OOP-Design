@@ -74,9 +74,30 @@ This could be fixed using a system where price is more effective at lower levels
 
 ---
 ### PT7 - Social, Legal, Ethical Concerns
-#### Social
-    essay here
-#### Legal
-    essay here
-#### Ethical
-    essay here
+#### Individual Impact
+While this Top trumps game is generally for entertainment, it uses the likes of real life cars, thus it could influence consumer buying habits in the automobile industry.
+
+By having increased attributes for different vehicles, especially considering the oversimplification of an actual car's attributes, consumers may be more inclined towards specific types/brands of cars (e.g. A supercar.)
+
+Using the attribute of fuel-efficiency does not take into account electric vehicles and could affect a users inclination towards an EV.
+
+As a designer, it is important to disclose all relevant information to users, and ensure your audience is not biased by your content.
+
+#### Social Impact
+The game may reinforce stereotypical ideas of wealth/status exclusivity with some vehicles, considering attributes like 'price' being seen as directly higher on high hp (super)cars.
+
+To increase inclusivity, the game could be modified to improve the standing of cheaper/budget cars, as well as add a unique selection of different types of cars with good attributes and low prices, to introduce users to budget-friendly, reliable vehicles.
+
+#### Environmental Impact
+The game is not directly impactful on the environment, but could promote ideas that will harm the environment in the short and long term.
+
+By choosing to only use fuel-efficiency as an attribute, the game effectively ignores EV cars, thus propogating obliviousness to the more eco-friendly option.
+
+Users may be inclined to favour specific vehicles for both fuel-efficiency, or other attributes. In the case of other attributes, fuel-efficiency may be high, but users could choose to ignore the factor due to bias over other stats like speed, price, etc.
+
+#### Legal Considerations
+By using real world cars, the game can face different legal issues based on copyrighted content, or a misuse/inaccurate portrayal of cars/car brands.
+
+As designers, it is important to verify data, to avoid inaccuracies swaying consumer opinions on specific products or services. Additionally, due to the fact that marketing is a major part of the car market, some information may be biased towards specific entities or brands.
+
+Users must be given a fair and accurate portrayal of all cars, brands, etc. To ensure that misleading information does not affect public opinion and bias.
